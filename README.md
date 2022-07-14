@@ -13,4 +13,4 @@ $ cd Virus-x
 $ chmod +x virus.sh
 $ bash virus.sh
 # eso es todos mis queridos hackers los daluda su amigo
-# HACKING PCH #
+#A  #ndi
