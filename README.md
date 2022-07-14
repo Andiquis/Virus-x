@@ -1,16 +1,16 @@
-# papaviruz
-# Comandos para meterle un viruz apk atu victima
+# Virus-x
+# Comandos para generar un virus apk 
 
-# espero y les guste
+# espero que les guste
 # Comandos
 $ pkg update
 $ pkg upgrade
 $ pkg install bash
-$ apt install pv
+$ pkg install pv
 $ pkg install git
-$ git clone https://github.com/Hacking-pch/papaviruz
-$ cd papaviruz
-$ chmod +x papaviruz.sh
-$ bash papaviruz.sh
+$ git clone https://github.com/Andiquis/Virus-x
+$ cd Virus-x
+$ chmod +x virus.sh
+$ bash virus.sh
 # eso es todos mis queridos hackers los daluda su amigo
 # HACKING PCH #
