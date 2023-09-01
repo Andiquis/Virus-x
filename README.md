@@ -1,5 +1,5 @@
 # `DESCARGA EL TERMINAL DE LINUX-DEBIAN (TERMUX)`
-<a href="https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk"><img src="https://img.shields.io/badge/DOWNLOAD_APK-25D366?style=for-the-badge&logo=github&logoColor=blue" />
 
 ## `Virus-x`
 # Comandos para generar un virus apk 
