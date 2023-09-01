@@ -1,3 +1,6 @@
+##DESCARGA EL TERMINAL TERMUX
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk)
+
 # Virus-x
 # Comandos para generar un virus apk 
 
